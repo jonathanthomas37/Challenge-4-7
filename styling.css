@@ -1,0 +1,21 @@
+.hobbies {
+    display: inline-block;
+    text-align: center;
+    transition: 0.5;
+}
+
+.centered {
+    text-align: center;
+}
+
+#hobbies-section {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 10% 10;
+}
+
+#doggo-section {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 50% 0;
+}
