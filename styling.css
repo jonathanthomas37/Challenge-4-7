@@ -19,6 +19,13 @@
     justify-content: space-evenly;
     padding: 0 10% 10;
 }
+#buttons {
+    text-align: center;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    padding: 20% 50% 10%;
+}
 
 #doggo-section {
     display: flex;
